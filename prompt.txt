@@ -1,0 +1,1 @@
+Build a one-line entry for the make.fun bounty "What the Elevator Would Say": write the funniest single line, at most 120 characters, that an elevator would say if it could talk, in the elevator's own voice. The program (main.ts) writes exactly that one line to /output/entry.txt, with no trailing newline and no extra text.
